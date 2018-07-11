@@ -1,0 +1,86 @@
+.an-info-single{
+    border-bottom: 0;
+}
+.error{
+    color: red !important;
+}
+.white-font{
+    color: #fff;
+}
+
+.yellow-font{
+    color: #FFF200;
+}
+
+body{
+    background-color: #fff;
+}
+
+.an-form-control{
+    height: 42px ;
+}
+
+.an-input-group .an-input-group-addon{
+    font-size:26px ;
+}
+
+.an-flex-center-center, .an-porfolio-single a .overlay{
+    justify-content: flex-start;
+}
+
+
+.an-btn-blue {
+    background: #38aae9;
+    border-color: #38aae9;
+    color: #ffffff;
+}
+
+.an-btn-blue:hover {
+    background: #0C7CD5;
+    border-color: #0C7CD5;
+}
+
+.an-header{
+    background-color: #3B5998;
+}
+
+.main-wrapper{
+    /*position: fixed;*/
+}
+
+.an-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 20;
+    animation: top .2s linear 1;
+}
+.an-page-content{
+    padding-top: 57px;
+}
+
+.instruction_area span.not_visited {
+    background: url(../img/buttons-sprite.png) no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    cursor: pointer;
+    float: left;
+    font-weight: bold;
+    height: 38px;
+    line-height: 42px;
+    margin: 3px;
+    text-align: center;
+    width: 34px;
+    background-position: -33px -67px;
+    color: #474747;
+}
+
+.an-inbox-body .message-body p{
+    color: #737272;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.customer-support .an-lists-body{
+    overflow: auto !important;
+}
